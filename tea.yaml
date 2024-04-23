@@ -3,8 +3,8 @@ project:
   description: "This is a sample project created for Tea Testnet registration."
   version: "1.0.0"
   contact:
-    name: "Dima"
-    email: "dimabehta98@gmail.com"
+    name: "name"
+    email: "example@gmail.com"
     github: "https://github.com/johndoe/my-awesome-project"
   technologies:
     - Python
